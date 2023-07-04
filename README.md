@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [birs](http://buligar.pythonanywhere.com/)
 
-- 🌱 I’m currently learning **NEST, PyNN, Brian2**
+- 🌱 I’m currently learning **NEST, Nengo**
 
 - 📫 How to reach me **buligarmouth@gmail.com**
 
