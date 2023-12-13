@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buligar&label=Profile%20views&color=0e75b6&style=flat" alt="buligar" /> </p>
 
-- 🔭 I’m currently working on [birs](http://buliga71.beget.tech/)
-
 - 🌱 I’m currently learning **NEST, Nengo, Brian**
 
 - 📫 How to reach me **buligarmouth@gmail.com**
