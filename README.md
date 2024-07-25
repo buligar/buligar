@@ -1,4 +1,3 @@
-<h1 align="center">Hello 👋, I'm Bulat Batuev</h1>
 <h3 align="center">A Python backend developer and a graduate student in computational neuroscience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buligar&label=Profile%20views&color=0e75b6&style=flat" alt="buligar" /> </p>
