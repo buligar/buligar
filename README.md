@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buligar&label=Profile%20views&color=0e75b6&style=flat" alt="buligar" /> </p>
 
-- 🌱 I’m currently learning **NEST, Nengo, Brian**
+- 🌱 I’m currently learning **NEST, Nengo, Brian2**
 
 - 📫 How to reach me **buligarmouth@gmail.com**
 
